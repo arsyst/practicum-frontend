@@ -77,7 +77,7 @@ h1 {
 }
 
 .header__logo {
-    background-image: url("img/svg/logo-two-lines.svg");
+    background-image: url("../img/svg/logo-two-lines.svg");
     background-repeat: no-repeat;
     background-size: auto 48px;
     width: 180px;
@@ -166,7 +166,7 @@ h1 {
 }
 
 .footer__logo {
-    background-image: url("img/svg/logo-one-line.svg");
+    background-image: url("../img/svg/logo-one-line.svg");
     background-repeat: no-repeat;
     background-size: auto 20px;
     width: 300px;
